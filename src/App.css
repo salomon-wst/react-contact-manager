@@ -32,3 +32,13 @@
   }
 }
 */
+.App {
+  background-color: #4b4a4a;
+}
+.App .card {
+  background-color: #c5c0c0;
+}
+.App .card-header {
+  background-color: gainsboro;
+  font-weight: 400;
+}
